@@ -1,3 +1,5 @@
+![My Arduino Car](/media/pose-2.jpeg)
+
 # Arduino Car
 
 A simple remote-controlled car with built-in crash avoidance.
@@ -20,6 +22,8 @@ This simple Arduino car comes with the following features:
   - Check for obstacles in front.
   - Execute next command based on the two checks.
 
+![My Arduino Car](/media/pose-3.jpeg)
+
 ## TODO LIST
 
 - Deploy to Cloudflare Workers [X]
@@ -31,6 +35,8 @@ This simple Arduino car comes with the following features:
 - Add Bluetooth Logic to Arduino [X]
 - Add Car Controls to Website [X]
 - Send Controls to Arduino [X]
+
+![My Arduino Car](/media/pose-1.jpeg)
 
 ## Setting up the Bluetooth connection
 
