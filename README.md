@@ -6,6 +6,8 @@ A simple [remote-controlled](https://arduino-car.andre-landgraf.workers.dev/) ca
 
 ![My Arduino Car](/media/pose-2.jpeg)
 
+You can find a small chaotic demo on [YouTube](https://www.youtube.com/watch?v=9bRxBpBinfo). 🙈
+
 ## Features
 
 This simple Arduino car comes with the following features:
@@ -50,6 +52,12 @@ This simple Arduino car comes with the following features:
   - Connect debug LED to arduino [X]
 
 ![My Arduino Car](/media/pose-1.jpeg)
+
+## Limitations
+
+- Only supports back, forwards, and stop movement.
+- Batteries to heavy for the car, so it needs a little boost to get going.
+- Only two out of four motors are connected due to broken wiring (cheap car).
 
 ## Setting up the Bluetooth connection
 
